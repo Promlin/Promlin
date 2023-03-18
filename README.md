@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Irina</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 - 🌱 I’m currently learning programming and some cool things
 - 👯 I’m looking to collaborate on any C# + Unity projects
